@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 526bc4e70f6cbda43a55bf8fc59bb4f6, type: 3}
+  m_Name: superbullet
+  m_EditorClassIdentifier: 
+  preFab: {fileID: 992392085062826474, guid: 3aa1507f488cce4498d8d1a8cd09e4d6, type: 3}
+  sprite: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
+  objectName: supperBullet

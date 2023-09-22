@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce34d1e33827b854da8cca38a17d0f36, type: 3}
+  m_Name: soundSO
+  m_EditorClassIdentifier: 
+  shoot: {fileID: 8300000, guid: 48add4982a999d044ae4a19cd353534f, type: 3}
+  hit: {fileID: 8300000, guid: f59c5fd4eac91a74b9fd52545c75f08b, type: 3}
+  move: {fileID: 8300000, guid: 454de52b3efda63498b574307a22d732, type: 3}
+  heal: {fileID: 8300000, guid: 9b64ec5f4c9032d478cf28974761be58, type: 3}
+  skillE: {fileID: 8300000, guid: d212cfc1de1c09f40a8e7a61dda8ec52, type: 3}
+  skillSpace: {fileID: 8300000, guid: d9bebac13354c13448ec04473ea95048, type: 3}
+  skillQ: {fileID: 8300000, guid: 90b54684fed64184cae961c346d9cbb5, type: 3}
+  transport: {fileID: 8300000, guid: 8d57144dc9d911440a4b8058e9b55012, type: 3}
+  extract: {fileID: 8300000, guid: 9c22147625f092e44b930f08c6d91f97, type: 3}
+  destroyed: {fileID: 8300000, guid: 6191b3f56ea6d33439e12ee60399cfaa, type: 3}
+  finnishRound: {fileID: 8300000, guid: 499e543fd25307a48bac19adda17864e, type: 3}
+  teleport: {fileID: 8300000, guid: 8d57144dc9d911440a4b8058e9b55012, type: 3}
+  enemyAoe: {fileID: 8300000, guid: 747372fb2e753d343bb216877f926da9, type: 3}
+  wind: {fileID: 8300000, guid: a8ceceb2b81aa7a4e902bba80abfe051, type: 3}
+  armor: {fileID: 8300000, guid: 4c162b985029b3a429c0908574fd3d58, type: 3}
+  flye: {fileID: 8300000, guid: a5b1fcb2bbb66e84a81f02711efe3032, type: 3}
+  electric: {fileID: 8300000, guid: 71ffff0c774a21c4398b245d5d6e3215, type: 3}
+  buy: {fileID: 8300000, guid: d83c2bc63656c7246ba5ea846224d79c, type: 3}
+  rockSkill: {fileID: 8300000, guid: e4608645c0cf32742ba52fd61952f203, type: 3}
+  tank1teloport: {fileID: 8300000, guid: ec7262c37927a6a46aba23e29cbf809c, type: 3}
+  next: {fileID: 8300000, guid: 4790047da368ecd4d9ff525db60fb086, type: 3}
+  readyFight: {fileID: 8300000, guid: 45f7e3323211b2747a99b9fa98247a00, type: 3}
+  enhanceGun: {fileID: 8300000, guid: 4bc6b21fdc317e54688b0363fb045e5b, type: 3}
+  enhanceSpeed: {fileID: 8300000, guid: 9bbe9e848505fb0458120de5f35dc66c, type: 3}
+  bite: {fileID: 8300000, guid: 3f3660d68b8437540adff3da88079690, type: 3}
+  correct: {fileID: 8300000, guid: 909c1140869ca09469b9d17fea422bff, type: 3}
+  fail: {fileID: 8300000, guid: d329a8d204295144db23ff383cfb1d7c, type: 3}

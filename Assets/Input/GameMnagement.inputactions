@@ -1,0 +1,54 @@
+{
+    "name": "GameMnagement",
+    "maps": [
+        {
+            "name": "handleSelect",
+            "id": "7c8773d2-55bd-4bad-ae92-4d92d0f8e9bd",
+            "actions": [
+                {
+                    "name": "left",
+                    "type": "Button",
+                    "id": "f0847eaa-01c3-4b7d-bb42-ea9a6a0a4ed1",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "right",
+                    "type": "Button",
+                    "id": "f64a18db-9af1-4cd7-aba2-e377b1294959",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "8dc0740b-f9ea-43d8-a011-17c1f3393f13",
+                    "path": "<Keyboard>/leftArrow",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "left",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "b6135f25-8fc8-4946-83bd-851733cb2f40",
+                    "path": "<Keyboard>/rightArrow",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "right",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

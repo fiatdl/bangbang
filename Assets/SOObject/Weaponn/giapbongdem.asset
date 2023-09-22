@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1762a3967bc754a46bd74ae116117e9c, type: 3}
+  m_Name: giapbongdem
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 21300000, guid: b98d1a1289423764badfad83529ca3cf, type: 3}
+  objectName: "\xC1o cho\xE0ng b\xF3ng \u0111\xEAm"
+  hP: 400
+  moveSpeed: 3
+  attackSpeed: 10
+  armor: 10
+  coolDown: 0
+  critPercent: 0
+  damamge: 0
+  price: 2500

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6e90e6bb0b5c974fa89cf932ef82f9b, type: 3}
+  m_Name: Turret
+  m_EditorClassIdentifier: 
+  enemyName: Turret
+  coin: 300
+  exp: 70
+  enemyTransform: {fileID: 2134055370997719255, guid: 6f91ed42b3a2599489b1c4da008d9b96, type: 3}
+  preFab: {fileID: 1484839971631647605, guid: 6f91ed42b3a2599489b1c4da008d9b96, type: 3}
+  avatar: {fileID: 21300000, guid: 6d7567ca3d115144fa0b84eab1e75d2c, type: 3}

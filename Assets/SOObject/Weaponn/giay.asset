@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1762a3967bc754a46bd74ae116117e9c, type: 3}
+  m_Name: giay
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 21300000, guid: 25bce6ff137780c4aa142d8f0e2ba00c, type: 3}
+  objectName: giay
+  hP: 0
+  moveSpeed: 2
+  attackSpeed: 30
+  armor: 0
+  coolDown: 0
+  critPercent: 0
+  damamge: 0
+  price: 1000
